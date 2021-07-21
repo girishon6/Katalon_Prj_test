@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Data_frm_excel</name>
+   <tag>Data_frm_excel</tag>
+   <comment></comment>
+   <testCaseGuid>214d36d5-4c9c-4fc4-ace5-b1f0e6ba9325</testCaseGuid>
+   <variable>
+      <defaultValue>'Admin'</defaultValue>
+      <description></description>
+      <id>c4121c18-9a53-4a8d-8efb-4e429de81742</id>
+      <masked>false</masked>
+      <name>username</name>
+   </variable>
+   <variable>
+      <defaultValue>'admin123'</defaultValue>
+      <description></description>
+      <id>1b252a13-ac1e-4c14-8945-3d39eba704dd</id>
+      <masked>false</masked>
+      <name>password</name>
+   </variable>
+</TestCaseEntity>

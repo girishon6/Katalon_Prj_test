@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>SampleCustKeyword</name>
+   <tag>SampleCustKeyword</tag>
+   <comment></comment>
+   <testCaseGuid>adf223c9-7e9d-48a2-8486-5bef48dc77ff</testCaseGuid>
+   <variable>
+      <defaultValue>'Admin'</defaultValue>
+      <description></description>
+      <id>738ac689-ea92-464e-bb4a-59350df23c12</id>
+      <masked>false</masked>
+      <name>Username</name>
+   </variable>
+   <variable>
+      <defaultValue>'admin123'</defaultValue>
+      <description></description>
+      <id>c1640964-d783-4b85-bbfa-12fb5e49533e</id>
+      <masked>false</masked>
+      <name>Password</name>
+   </variable>
+</TestCaseEntity>
